@@ -1,0 +1,14 @@
+<nav class="navbar navbar-default">
+	  <div class="container-fluid">
+	    <div class="navbar-header">
+	      <a class="navbar-brand" href="#">in28Minutes</a>
+	    </div>
+	    <ul class="nav navbar-nav">
+	      <li><a href="/">Home</a></li>
+	      <li><a href="/list-todos">ToDo list</a></li>
+	    </ul>
+	    <ul class="nav navbar-nav navbar-right">
+	    	<li><a href="/logout">Log out</a>
+	    </ul>
+	  </div>
+	</nav>
